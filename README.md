@@ -19,3 +19,6 @@ Buatlah sebuah mesin pita karakter yang menerima input sebuah file text. Kemudia
 mesin tersebut akan menampilkan informasi berikut:
 - Jumlah huruf dalam text (tidak termasuk spasi)
 - Jumlah kalimat dalam text.
+
+Soal 4
+Menentukan Karakter tanpa perulangan.
